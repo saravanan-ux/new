@@ -1,7 +1,7 @@
 # Example issue bodies
 
 ```
-    ```json request
+    ```json request for
     {
         "owner": "hashicorp-contrib",
         "repo": "setup-packer",
